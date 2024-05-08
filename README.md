@@ -26,4 +26,4 @@ If either or both of the input fields are empty, an error message will be displa
 If either or both of the input fields contain a value that is not a number, the entire screen will be replaced with the message "Something critical went wrong. Please reload the page" and an error will be logged to the console.
 
 ##### Contact
-For any questions or comments, please contact Your Thapelo.
+For any questions or comments, please contact  Thapelo.
